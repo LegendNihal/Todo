@@ -1,0 +1,19 @@
+{
+  "lists": [
+    {
+      "title": "Soap",
+      "author": "Mahi",
+      "id": 1
+    },
+    {
+      "title": "Rice",
+      "author": "Nihal",
+      "id": 2
+    },
+    {
+      "title": "Flesh Light",
+      "author": "Mahi",
+      "id": 3
+    }
+  ]
+}
