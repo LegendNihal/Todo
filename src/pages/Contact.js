@@ -30,8 +30,8 @@ const Contact = () => {
                 <MDBCol md='8'>
                     <MDBContainer>
                         <h3 className='d-flex justify-content-end'>My Wifu</h3>
-                        <p className='d-flex justify-content-end'>Contact No : 01869862141</p>
-                        <p className='d-flex justify-content-end'>Email: punammahisafaafrin@gmail.com</p>
+                        <p className='d-flex justify-content-end'>Contact No : 018********</p>
+                        <p className='d-flex justify-content-end'>Email: punammahi@gmail.com</p>
                     </MDBContainer>
                 </MDBCol>
             </MDBRow>
